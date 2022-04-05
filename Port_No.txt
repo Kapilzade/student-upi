@@ -1,0 +1,17 @@
+SMTP : 25 (plain txt)
+DHCP: 67,69
+NETBIOS: 137-139
+IMAP: 143
+LDAP: 389
+SMB: 445
+SMTPS: 465
+SMTP: 587 (encripted commn.)
+iscsi: 860
+VMware server: 902
+Open VPN: 1194
+microsoft SQL: 1433-1434
+Oracle RDS: 1521
+NFS: 2049
+FTP: 20(T),21(N)
+My sql: 3306
+postgre SQL: 543
